@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Project2\LexicalScanner\LexicalScanner\bin\Debug\LexicalScanner.exe.config
+\\Mac\Home\Desktop\Project2\LexicalScanner\LexicalScanner\bin\Debug\LexicalScanner.exe
+\\Mac\Home\Desktop\Project2\LexicalScanner\LexicalScanner\bin\Debug\LexicalScanner.pdb
+\\Mac\Home\Desktop\Project2\LexicalScanner\LexicalScanner\obj\Debug\LexicalScanner.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project2\LexicalScanner\LexicalScanner\obj\Debug\LexicalScanner.exe
+\\Mac\Home\Desktop\Project2\LexicalScanner\LexicalScanner\obj\Debug\LexicalScanner.pdb

@@ -1,0 +1,1 @@
+devenv LexicalScanner.sln /rebuild debug 
